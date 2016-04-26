@@ -1,0 +1,8 @@
+build-chatClient-Desktop-Debug/
+build-chatClient-Desktop-Release/
+build-chatServer-Desktop-Debug/
+build-chatServer-Desktop-Release/
+*zip
+*pro.user
+*7pre1
+*~
